@@ -1,0 +1,87 @@
+/* .main_body { */
+/* 0 */
+    /* background-image: url('/bg_img/bg_2.jpg'); */
+
+    /* height: auto; */
+    /* width: auto; */
+    /* background-size: cover; */
+    /* background-repeat: repeat-y; */
+    /* background-attachment: fixed; */
+/* } */
+
+.artbyrv{
+
+
+    height: auto;
+    width: 70vw;
+}
+
+.quotes{
+
+    font-family: 'Satisfy', cursive;
+    font-size:x-large;
+
+}
+.p_about {
+
+    color: red;
+    font-size: x-large;
+    font-family: 'Satisfy', cursive;
+
+}
+
+/* .about_body {
+
+    /* background-image: url('/bg_img/bg_2.jpg'); */
+    /* width: auto; */
+    /* background-size: cover; */
+    /* background-repeat: repeat-y; */
+    /* background-attachment: fixed; */
+    /* height: auto; */
+/* } */ 
+
+.height {
+
+
+    height: 100rem;
+}
+
+/* .main_body_index {
+
+    /* background-image: url('/bg_img/bg_2.jpg'); */
+    /* height: auto; */
+    /* width: auto; */
+    /* background-size: cover; */
+    /* background-repeat: repeat-y; */
+    /* background-attachment: fixed; } */
+
+/* .main_body_blog {
+
+    /* background-image: url('/bg_img/bg_2.jpg'); */
+
+    /* height: auto; */
+    /* width: auto; */
+    /* background-size: cover; */
+    /* background-repeat: repeat-y; */
+    /* background-attachment: fixed; 
+ } */
+
+
+
+
+.vsmm {
+
+
+    color: maroon;
+}
+
+.blog_embed {
+
+    height: 100vh;
+
+}
+
+.main_header {
+
+    color:black;
+}

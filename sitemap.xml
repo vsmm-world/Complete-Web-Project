@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://www.vsmmworld.tech/</loc>
+	<lastmod>2022-07-13T06:32:28+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.vsmmworld.tech/blog</loc>
+	<lastmod>2022-07-13T06:32:28+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.vsmmworld.tech/skill</loc>
+	<lastmod>2022-07-13T06:32:28+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.vsmmworld.tech/about</loc>
+	<lastmod>2022-07-13T06:32:28+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.vsmmworld.tech/contact</loc>
+	<lastmod>2022-07-13T06:32:28+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.vsmmworld.tech/skill/art</loc>
+	<lastmod>2022-07-13T06:32:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.vsmmworld.tech/skill/quotes</loc>
+	<lastmod>2022-07-13T06:32:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>

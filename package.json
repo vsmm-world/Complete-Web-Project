@@ -1,0 +1,14 @@
+{
+  "name": "vsmmworld",
+  "version": "1.0.0",
+  "description": "this is the official web server of VSMM World",
+  "main": "vsmm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravindra Valand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

@@ -1,0 +1,9 @@
+
+        <div class="quotes text-center display-4">
+            <p>
+                Action without planing  <br>
+                        is <br>
+                root at every failure.
+            </p>
+
+        </div>
